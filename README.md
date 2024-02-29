@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">✨ Crafting code and chasing dreams.<br>🎯 Goals: software Engineer <br>🏆Self- Taught</h3>
+<h3 align="left">✨ Crafting code and chasing dreams.<br>🎯 Goals: Software Engineer <br>🏆Self- Taught</h3>
 
 ###
 
