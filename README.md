@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Prayas Jadaun</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Job Portal website with Carrier counselling Chat Bot**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prayasjadaun&label=Profile%20views&color=0e75b6&style=flat" alt="prayasjadaun" /> </p>
 
-- 🌱 I’m currently learning **Rest APIs**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prayasjadaun" alt="prayasjadaun" /></a> </p>
+
+- 🌱 I’m currently learning **Rest APIs, and DSA**
+
+- 🎒 I’m currently pursuing **Master of computer Application**
+
+- 🔭 I’m currently working on **Job Portal website with Carrier counselling Chat Bot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prayasjadaun](https://github.com/prayasjadaun)
 
-- 💬 Ask me about **✨ Crafting code and chasing dreams. 🎯 Goals: Software Engineer 🏆Self- Taught**
+- 💬 Ask me about **I'm a versatile asset in the software development industry because I specialise in a wide range of technologies. Having developed cross-platform mobile apps with Flutter and front-end scripted with Dart, I create fluid user experiences. My expertise includes working with Java and Node.js for backend programming, which guarantees reliable server-side functioning. I implement scalable backend solutions and real-time database management using Firebase. I'm really good at coordinating secure and scalable architecture using AWS Cloud services in the field of cloud computing. Last but not least, I manage RestAPI integration skillfully, enabling smooth application connection.**
 
 - 📫 How to reach me **prayashthakur6@gmail.com**
 
@@ -16,8 +22,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prayas-jadaun-2328301ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prayas-jadaun-2328301ba/" height="30" width="40" /></a>
+<a href="https://instagram.com/_thakurprayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_thakurprayas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prayasjadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prayasjadaun" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@prayashthakur6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@prayashthakur6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
