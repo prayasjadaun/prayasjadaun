@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prayas Jadaun</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="coding" width="400" src=https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ab8468qhnz0pdf4oj72squexrst8g4j2w2ajqnx0&ep=v1_gifs_search&rid=200w.gif&ct=g>
+<img align="right" alt="coding" width="400" src=https://www.appslure.com/wp-content/uploads/2022/07/app-development-1.gif>
 
 - 🎒 I’m currently pursuing **Master of computer Application**
 
