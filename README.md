@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prayasjadaun](https://github.com/prayasjadaun)
 
-- 💬 Ask me about **I'm a versatile asset in the software development industry because I specialise in a wide range of technologies. Having developed cross-platform mobile apps with Flutter and front-end scripted with Dart, I create fluid user experiences. My expertise includes working with Java and Node.js for backend programming, which guarantees reliable server-side functioning. I implement scalable backend solutions and real-time database management using Firebase. I'm really good at coordinating secure and scalable architecture using AWS Cloud services in the field of cloud computing. Last but not least, I manage RestAPI integration skillfully, enabling smooth application connection.**
+- 💬 About me 👋🏻 **I'm a versatile asset in the software development industry because I specialise in a wide range of technologies. Having developed cross-platform mobile apps with Flutter and front-end scripted with Dart, I create fluid user experiences. My expertise includes working with Java and Node.js for backend programming, which guarantees reliable server-side functioning. I implement scalable backend solutions and real-time database management using Firebase. I'm really good at coordinating secure and scalable architecture using AWS Cloud services in the field of cloud computing. Last but not least, I manage RestAPI integration skillfully, enabling smooth application connection.**
 
 - 📫 How to reach me **prayashthakur6@gmail.com**
 
