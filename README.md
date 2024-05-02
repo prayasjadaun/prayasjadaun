@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **prayashthakur6@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1fnphjQnU7G1DSyw69pX8SFQl6Am7UCP1/view?usp=drive_link](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
