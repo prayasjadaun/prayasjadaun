@@ -4,7 +4,7 @@
 
 - 🎒 I’m currently pursuing **Master of computer Application**
 
-- 🌱 I’m currently learning **Rest APIs, and DSA**
+- 🌱 I’m currently learning **TypeScript, and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prayasjadaun](https://github.com/prayasjadaun)
 
