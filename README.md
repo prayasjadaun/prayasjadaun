@@ -10,7 +10,7 @@
 
 - 💬 About me 👋🏻 **I'm a versatile asset in the software development industry because I specialise in various technologies. Having developed cross-platform mobile apps with Flutter and front-end scripted with Dart, I create fluid user experiences. My expertise includes working with Java and Node.js for backend programming, guaranteeing reliable server-side functioning. I implement scalable backend solutions and real-time database management using Firebase. I'm good at coordinating secure and scalable architecture using AWS Cloud services in cloud computing. Last but not least, I manage RestAPI integration skillfully, enabling smooth application connection.**
 
-- 📫 How to reach me **https://github.com/prayasjadaun**
+- 📫 How to reach me **https://prayasportfolio.vercel.app/**
 
 - 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)]
 
