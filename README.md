@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://prayasportfolio.vercel.app/**
 
-- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/16qcVLw7Jeb51mO9OY8bTJ3yhQVts_FHg/view?usp=drive_link)]
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1kQWckgDQXkaU8zcfoqE-XeRWeocuo_AC/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
