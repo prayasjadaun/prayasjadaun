@@ -2,9 +2,11 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+- 🎒 I’m currently doing an internship at **Pro Housy Point Tech Solutions Pvt. Ltd**
+- 
 - 🎒 I’m currently pursuing **Master of computer Application**
 
-- 🌱 I’m currently learning **SQLite, and DSA**
+- 🌱 I’m currently learning **Python Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prayasjadaun](https://github.com/prayasjadaun)
 
