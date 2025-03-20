@@ -6,7 +6,7 @@
   
 - 🎒 I’m currently pursuing **Master of computer Application**
 
-- 🌱 I’m currently learning **Python Django**
+- 🌱 I’m currently learning **Node/Express.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/prayasjadaun](https://github.com/prayasjadaun)
 
