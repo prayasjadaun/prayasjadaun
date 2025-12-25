@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prayas Jadaun</h1>
-<h3 align="center">Full-Stack Mobile Application Developer (Flutter + Django)</h3>
+<h3 align="center">Full-Stack Mobile App Developer</h3>
 
 <img align="right" alt="coding" width="400"
      src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
@@ -7,10 +7,7 @@
 ---
 
 - 🧑🏻‍💻 **Full-Time Developer** at **Pro Housy Point Tech Solutions Pvt. Ltd.**  
-  *(Internship completed & converted to full-time)*
-
-- 🎓 **Master of Computer Application (Completed)**
-
+  
 - 💼 Role: **Full-Stack Mobile App Developer**
 
 - 👨‍💻 GitHub: https://github.com/prayasjadaun
@@ -55,7 +52,6 @@
 
 <h3 align="left">🛠 Other Tools & Technologies</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40"/>
@@ -71,13 +67,30 @@
 <h3 align="left">📊 GitHub Stats</h3>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prayasjadaun&show_icons=true&locale=en&layout=compact"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api
+    ?username=prayasjadaun
+    &show_icons=true
+    &count_private=true
+    &include_all_commits=true
+    &hide_border=true"
+  />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=prayasjadaun&show_icons=true&locale=en"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs
+    ?username=prayasjadaun
+    &layout=compact
+    &langs_count=8
+    &hide_border=true"
+  />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayasjadaun"/>
+  <img
+    src="https://streak-stats.demolab.com
+    /?user=prayasjadaun
+    &hide_border=true"
+  />
 </p>
